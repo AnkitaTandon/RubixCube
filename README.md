@@ -1,1 +1,1 @@
-Rubix's Cube
+Optimal Rubix's Cube Solver
